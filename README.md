@@ -104,16 +104,9 @@ show ip route
    •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
     
 # OUTPUT
+<img width="1050" height="1072" alt="image" src="https://github.com/user-attachments/assets/172d39c1-6920-44ed-8539-1390e9fb5dc5" />
 
-<img width="2702" height="1236" alt="IMG_9707" src="https://github.com/user-attachments/assets/861c3177-f36e-466b-b610-667fdf2a4e38" />
-
-
-
-
-
-
-
-<img width="682" height="492" alt="image" src="https://github.com/user-attachments/assets/ce0f130d-db9c-4853-876e-7d2e858fc4f5" />
+<img width="1039" height="1062" alt="image" src="https://github.com/user-attachments/assets/0d07e57b-d82e-436f-9414-0387f675d25f" />
 
 
 # RESULT:
